@@ -31,5 +31,7 @@ for file in os.listdir():
 
 print("All photos edited successfully!🥳 Check the enhaced_images folder.")
 
+# to run--> create a folder, add images u want to edit into that folder, download this file and move it to that folder.
+
 
 
