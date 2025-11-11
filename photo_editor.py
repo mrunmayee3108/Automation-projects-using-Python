@@ -4,7 +4,7 @@ import os
 output_folder = "enhanced_images"
 if not os.path.exists(output_folder):
     os.makedirs(output_folder)
-
+    
 for file in os.listdir():
     if file.lower().endswith(('jpg', 'jpeg', 'png')):
         print("Editing image...✨")
