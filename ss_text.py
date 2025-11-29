@@ -1,6 +1,6 @@
 # Requirements:
 # pip install streamlit pillow pytesseract
-# Also install Tesseract OCR separately (Windows: UB-Mannheim installer)
+# Also install Tesseract OCR separately (Windows: UB-Mannheim installer) (https://github.com/UB-Mannheim/tesseract/wiki) add tesseract to path.
 
 import streamlit as st
 from PIL import Image
@@ -29,4 +29,5 @@ else:
             st.info("No readable text/no text present in the image.")
         else:
             st.text_area("", text, height = 200)
+
         st.markdown("---")
