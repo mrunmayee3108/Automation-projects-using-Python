@@ -1,6 +1,6 @@
 # Requirements:
 # pip install streamlit pillow pytesseract
-# Also install Tesseract OCR separately (Windows: UB-Mannheim installer)
+# Also install Tesseract OCR separately (Windows: UB-Mannheim installer) (https://github.com/UB-Mannheim/tesseract/wiki)  add to path.
 
 import streamlit as st
 from PIL import Image
