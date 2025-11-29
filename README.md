@@ -5,6 +5,8 @@ Automation Projects Using Python
 ![Pillow](https://img.shields.io/badge/Pillow-FFDD00?logo=python&logoColor=black)
 ![PyPDF2](https://img.shields.io/badge/PyPDF2-PDF%20Library-red)
 ![pytesseract](https://img.shields.io/badge/pytesseract-OCR%20Engine-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-Web%20App%20Framework-brightgreen)
+
 
 
 
